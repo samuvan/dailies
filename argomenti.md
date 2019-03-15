@@ -30,3 +30,7 @@ Argomenti
 - begin() e end()
 
     Vari usi di quelli custom
+
+- Strumenti per l'analisi del codice
+
+    Cosa si può fare? Cosa si può ottenere? Un caso specifico: Albatros
