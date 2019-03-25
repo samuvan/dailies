@@ -16,6 +16,10 @@ Argomenti
 - Polimorfismo dinamico e no
 
     Template contro derivazione
+    
+- Essere o avere
+
+    Scegliere tra ereditarietà e contenimento
 
 - Il caso sort contro qsort
 
