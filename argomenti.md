@@ -38,3 +38,15 @@ Argomenti
 - Strumenti per l'analisi del codice
 
     Cosa si può fare? Cosa si può ottenere? Un caso specifico: Albatros
+    
+- Mastering functions
+
+    In quanti modi si può dire _funzione_? Cos'è? Come vive? Come farsela amica?
+    
+- I template
+
+    Sì, anche un normale essere umano può scriverli
+    
+- Unit test
+
+    Un male necessario...
